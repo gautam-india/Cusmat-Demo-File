@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="lptop" size="512.000000 682.666687" />
+    <ImageTarget name="f" size="512.000000 682.666687" />
+    <ImageTarget name="IMG" size="10.000000 13.333333" />
+    <ImageTarget name="stones" size="10.000000 7.014925" />
+    <ImageTarget name="frameGrass" size="10.000000 7.500000" />
+  </Tracking>
+</QCARConfig>
